@@ -1,0 +1,66 @@
+{
+  "id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in kgentilello/ReidArchitecturalDrawings project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3940,
+    "id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC/canvas/",
+    "label" : {
+      "none" : [ "DV007_BreedenBungalow_N10_05_itemC" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 124,
+              "height" : 174
+            }, {
+              "width" : 247,
+              "height" : 347
+            }, {
+              "width" : 493,
+              "height" : 694
+            }, {
+              "width" : 985,
+              "height" : 1387
+            }, {
+              "width" : 1970,
+              "height" : 2774
+            }, {
+              "width" : 3940,
+              "height" : 5547
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3940,
+            "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 5547
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3940,
+          "id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 5547
+        },
+        "target" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC/canvas/"
+      } ]
+    } ],
+    "height" : 5547
+  } ]
+}
