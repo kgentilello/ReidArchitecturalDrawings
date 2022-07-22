@@ -65,9 +65,14 @@
       "label" : "Floor Plan, Breeden Bungalow",
       "height" : 5547,
       "width" : 7104,
+      "otherContent" : {
+        "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/annotations/eec59ba390499a128fbfcfd8a2449ed3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Room Annotations"
+      },
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://09693031-4f08-4c6f-8747-270f6b8ad2d6",
+        "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/annotations/eec59ba390499a128fbfcfd8a2449ed3.json",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
