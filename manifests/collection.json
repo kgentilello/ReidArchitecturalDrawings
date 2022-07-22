@@ -1,0 +1,13 @@
+{
+  "id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in kgentilello/ReidArchitecturalDrawings project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/manifest2.json",
+    "label" : "Breeden Bungalow Blueprints"
+  } ]
+}
