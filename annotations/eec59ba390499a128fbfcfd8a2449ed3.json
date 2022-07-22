@@ -83,7 +83,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/manifest2.json"
+        "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/annotationsMani.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
