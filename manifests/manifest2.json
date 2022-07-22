@@ -1,6 +1,6 @@
 {
   "@context" : "http://iiif.io/api/presentation/2/context.json",
-  "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/manifest2.json",
+  "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "Breeden Bungalow Blueprints",
   "metadata" : [ {
