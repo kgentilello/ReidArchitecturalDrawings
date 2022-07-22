@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 124,
+    "height" : 174
+  }, {
+    "width" : 247,
+    "height" : 347
+  }, {
+    "width" : 493,
+    "height" : 694
+  }, {
+    "width" : 985,
+    "height" : 1387
+  }, {
+    "width" : 1970,
+    "height" : 2774
+  }, {
+    "width" : 3940,
+    "height" : 5547
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3940,
+  "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/images/DV007_BreedenBungalow_N10_05_itemC",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5547
+}
