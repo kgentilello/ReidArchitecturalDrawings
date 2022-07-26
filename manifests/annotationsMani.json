@@ -41,7 +41,7 @@
       "width" : 7104,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/annotations/eec59ba390499a128fbfcfd8a2449ed3.json",
+        "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/manifests/annotationsMani.json",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
         "resource" : {
