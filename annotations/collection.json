@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://kgentilello.github.io/ReidArchitecturalDrawings/annotations/eec59ba390499a128fbfcfd8a2449ed3.json" ],
+  "otherContent" : [ ],
   "@id" : "https://kgentilello.github.io/ReidArchitecturalDrawings/annotations/collection.json",
   "label" : "All annotations loaded in kgentilello/ReidArchitecturalDrawings project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
